@@ -1,0 +1,83 @@
+#navigation-bar{
+    background-color: #262626 !important;
+}
+
+#name{
+    font-size: 130%;
+}
+
+#showcase{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 200px;
+    border-radius: 150%;
+    margin-top: 1em;
+}
+
+#heading2{
+    padding-top: 10px;
+    color: #ba3a3a;
+    font-family: 'Raleway', sans-serif;
+}
+
+#quote{
+    padding-top: 5px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#about-section{
+    margin-top: 50px;
+    background-color: white;
+}
+
+#accordion-container{
+    padding: 0.5em 1em;
+}
+
+#headingOne{
+    background-color: #ba3a3a ;
+}
+
+#headingTwo{
+    background-color: #242424;
+}
+
+i{
+    margin-right: 10px;
+    color: white;
+}
+
+.accordion-cards{
+    text-decoration: none !important;
+    color: white;
+}
+
+.accordion-cards:hover{
+    color: white !important;
+}
+
+.contact-icon{
+    color: #242424;
+}
+
+.education{
+    background-color: #ebebeb;
+    padding-top: 2em;
+}
+
+
+#education-title{
+    text-align: center;
+}
+
+.education-para{
+    margin-bottom: 0;
+    font-size: 15px;
+    color: #787878;
+}
+
+.skill-texts{
+    padding-bottom: 0.2em;
+}
